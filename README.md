@@ -7,7 +7,7 @@ Este relatório se trata da criação das tabelas e gráficos necessários para 
 - Pandas
 - Plotly
 
-# Como executar o projeto
+# Para executar o projeto baixe
 - git clone https://github.com/PauloGBPonte/RelatorioGLPI.git
 
 # Autoria
