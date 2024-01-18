@@ -9,6 +9,7 @@ Este relatório se trata da criação das tabelas e gráficos necessários para 
 
 # Para executar o projeto baixe
 - git clone https://github.com/PauloGBPonte/RelatorioGLPI.git
+- Execute em uma IDE com suporte de arquivos ipynb
 
 # Autoria
 - Paulo Gabriel Batista Ponte
